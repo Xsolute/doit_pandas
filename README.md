@@ -2,7 +2,7 @@
 
 Special Thanks for repo-attributors!
 
-TODO: Finish all contents
+TODO: Finish all Contents, Organize Studied Contents
 
 ---
 
