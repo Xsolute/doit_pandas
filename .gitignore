@@ -1,4 +1,8 @@
 output/
 data/
-notebook/.ipynb_checkpoints/
+notebook/.ipynb_checkpoints/*.ipynb
 .vs/
+*.pickle
+*.csv
+*.tsv
+*.txt

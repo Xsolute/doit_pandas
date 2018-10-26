@@ -4,9 +4,13 @@ Special Thanks for repo-attributors!
 
 TODO: Finish all Contents, Organize Studied Contents
 
+## Summaries
+
+1. [Unit 2 Summary](summary/unit2.md)
+
 ---
 
-## Do it! 판다스 입문 실습 자료입니다.
+## Do it! 판다스 입문 실습 자료
 
 안녕하세요? 이지스퍼블리싱의 담당 편집자 박현규라고 합니다.
 
